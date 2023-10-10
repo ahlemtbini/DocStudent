@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DocStudent</string>
+    <string name="todo">TODO</string>
+    <string name="welcome_to_docstudent">Welcome to DocStudent</string>
+    <string name="login">Login</string>
+    <string name="continue_without_login">Continue Without Login</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>

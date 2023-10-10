@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "653686128442",
+    "project_id": "docstudent-firebase",
+    "storage_bucket": "docstudent-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653686128442:android:2848feb88191afe96c5a03",
+        "android_client_info": {
+          "package_name": "com.technifysoft.docstudent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653686128442-uma6aosv7vt95i85la6trl2mg94vibeq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.technifysoft.docstudent",
+            "certificate_hash": "cee72898103a700fc820b4bd97daee15835f5bd8"
+          }
+        },
+        {
+          "client_id": "653686128442-53loh0g79kb5c47uqmuslt8643bavp74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB-8MAwMQfFDUgCRgtTWOftd9bpOeIXLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653686128442-53loh0g79kb5c47uqmuslt8643bavp74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
